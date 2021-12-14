@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/aditya-muthal-0881161b1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif" alt="Aditya's LinkedIn" height="50" width="50" /></a>
 
+### Languages and Tools:
 <div>
 <img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
