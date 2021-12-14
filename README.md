@@ -48,4 +48,3 @@ You can click the Preview link to take a look at your changes.
         <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaProject616&layout=compact&theme=radical" alt="Aditya" /> </td>
     </tr>
 </table>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
