@@ -6,19 +6,15 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm  Aditya Muthal </h1>
 <!-- <h2 align="center">"runtime_error_29"</h2> -->
 
-- 👀 I’m interested in Web Development.
-
-- 🌱 I’m currently learning Redux.
-
-- 💞 I’m looking to collaborate on React Projects.
-
+- 🌱 I’m currently learning M.E.R.N Stack
+- 👯 I’m looking to collaborate on any Open Source Projects 
+- 📫 How to reach me *adityamuthal01@gmail.com*
 - 👨‍💻 Linkdin Profile: [https://www.linkedin.com/in/aditya-muthal-0881161b1/](https://www.linkedin.com/in/aditya-muthal-0881161b1/)
 
-- 📫 How to reach me *adityamuthal01@gmail.com*
 
-- ⚡ Fun fact *Think Think Think...*
 
-    <img src="https://komarev.com/ghpvc/?username=AdityaProject616" width=160px/>
+
+<img src="https://komarev.com/ghpvc/?username=AdityaProject616" width=160px/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
