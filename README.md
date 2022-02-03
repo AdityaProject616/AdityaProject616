@@ -45,3 +45,9 @@ You can click the Preview link to take a look at your changes.
         <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaProject616&layout=compact&theme=radical" alt="Aditya" /> </td>
     </tr>
 </table>
+<table>
+    <tr>
+        <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-m01&show_icons=true&theme=radical" alt="Aditya's github stats" /> </td>
+        <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-m01&layout=compact&theme=radical" alt="Aditya" /> </td>
+    </tr>
+</table>
