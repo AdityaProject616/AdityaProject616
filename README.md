@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm  Aditya Muthal </h1>
 <!-- <h2 align="center">"runtime_error_29"</h2> -->
 
-- 🌱 I’m currently learning M.E.R.N Stack
+- 🌱 I’m proefficient in M.E.R.N Stack
 - 👯 I’m looking to collaborate on any Open Source Projects 
 - 📫 How to reach me *adityamuthal01@gmail.com*
 - 👨‍💻 Linkdin Profile: [https://www.linkedin.com/in/aditya-muthal-0881161b1/](https://www.linkedin.com/in/aditya-muthal-0881161b1/)
